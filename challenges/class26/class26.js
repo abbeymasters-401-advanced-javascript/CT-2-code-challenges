@@ -14,16 +14,4 @@ function insertionSort(arr) {
   return arr;
 }
 
-console.log(insertionSort([5, 6, 7, 8, 1, 2, 3]));
-
-
-// InsertionSort(int[] arr)
-//     FOR i = 1 to arr.length
-//       int j <-- i - 1
-//       int temp <-- arr[i]
-      
-//       WHILE j >= 0 AND temp < arr[j]
-//         arr[j + 1] <-- arr[j]
-//         j <-- j - 1
-        
-//       arr[j + 1] <-- temp
+module.exports = insertionSort;
