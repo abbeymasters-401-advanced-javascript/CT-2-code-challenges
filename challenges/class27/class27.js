@@ -1,8 +1,3 @@
-const arr = [3, 6, 7, 10, 40, 32, 1];
-console.log(arr);
-mergeSort(arr);
-console.log(arr);
-
 function mergeSort(arr) {
   let n = arr.length;
   if (n > 1) {
