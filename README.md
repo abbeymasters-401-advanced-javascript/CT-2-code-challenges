@@ -1,1 +1,1 @@
-# CT-2-code-challenges
+# Code Challenges
