@@ -40,6 +40,6 @@ ALGORITHM Merge(left, right, arr)
 
 
 ## Approach & Efficiency
-
+This was a tough problem to solve with so many variables. I started transcribing the code into JavaScript first, and then went into debugging.
 
 
