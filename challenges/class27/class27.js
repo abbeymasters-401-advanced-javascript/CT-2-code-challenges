@@ -45,3 +45,8 @@ function merge(left, right, arr) {
     }
   }
 }
+
+module.exports = {
+  mergeSort,
+  merge,
+};
